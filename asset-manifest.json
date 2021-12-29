@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CamWills89/nick-profile.git/static/css/main.569cc56b.chunk.css",
-    "main.js": "/CamWills89/nick-profile.git/static/js/main.d44a6a32.chunk.js",
-    "main.js.map": "/CamWills89/nick-profile.git/static/js/main.d44a6a32.chunk.js.map",
-    "runtime-main.js": "/CamWills89/nick-profile.git/static/js/runtime-main.4dd5cbd6.js",
-    "runtime-main.js.map": "/CamWills89/nick-profile.git/static/js/runtime-main.4dd5cbd6.js.map",
-    "static/js/2.75779711.chunk.js": "/CamWills89/nick-profile.git/static/js/2.75779711.chunk.js",
-    "static/js/2.75779711.chunk.js.map": "/CamWills89/nick-profile.git/static/js/2.75779711.chunk.js.map",
-    "index.html": "/CamWills89/nick-profile.git/index.html",
-    "precache-manifest.9b534c693ceeb5216fb158b87f0d9cd3.js": "/CamWills89/nick-profile.git/precache-manifest.9b534c693ceeb5216fb158b87f0d9cd3.js",
-    "service-worker.js": "/CamWills89/nick-profile.git/service-worker.js",
-    "static/css/main.569cc56b.chunk.css.map": "/CamWills89/nick-profile.git/static/css/main.569cc56b.chunk.css.map",
-    "static/js/2.75779711.chunk.js.LICENSE.txt": "/CamWills89/nick-profile.git/static/js/2.75779711.chunk.js.LICENSE.txt",
-    "static/media/self.png": "/CamWills89/nick-profile.git/static/media/self.94fdd148.png"
+    "main.css": "/CamWills89/nick-profile/static/css/main.569cc56b.chunk.css",
+    "main.js": "/CamWills89/nick-profile/static/js/main.84eaa9a8.chunk.js",
+    "main.js.map": "/CamWills89/nick-profile/static/js/main.84eaa9a8.chunk.js.map",
+    "runtime-main.js": "/CamWills89/nick-profile/static/js/runtime-main.3e0c1c03.js",
+    "runtime-main.js.map": "/CamWills89/nick-profile/static/js/runtime-main.3e0c1c03.js.map",
+    "static/js/2.75779711.chunk.js": "/CamWills89/nick-profile/static/js/2.75779711.chunk.js",
+    "static/js/2.75779711.chunk.js.map": "/CamWills89/nick-profile/static/js/2.75779711.chunk.js.map",
+    "index.html": "/CamWills89/nick-profile/index.html",
+    "precache-manifest.54bf6b21ee3b42125021163a4d04043b.js": "/CamWills89/nick-profile/precache-manifest.54bf6b21ee3b42125021163a4d04043b.js",
+    "service-worker.js": "/CamWills89/nick-profile/service-worker.js",
+    "static/css/main.569cc56b.chunk.css.map": "/CamWills89/nick-profile/static/css/main.569cc56b.chunk.css.map",
+    "static/js/2.75779711.chunk.js.LICENSE.txt": "/CamWills89/nick-profile/static/js/2.75779711.chunk.js.LICENSE.txt",
+    "static/media/self.png": "/CamWills89/nick-profile/static/media/self.94fdd148.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4dd5cbd6.js",
+    "static/js/runtime-main.3e0c1c03.js",
     "static/js/2.75779711.chunk.js",
     "static/css/main.569cc56b.chunk.css",
-    "static/js/main.d44a6a32.chunk.js"
+    "static/js/main.84eaa9a8.chunk.js"
   ]
 }
